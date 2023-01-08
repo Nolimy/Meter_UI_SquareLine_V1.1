@@ -1,0 +1,16 @@
+{
+  "codename": "FastOne",
+  "ttf_path": "\\assets\\FasterOne-Regular.ttf",
+  "bin_path": "\\assets\\ui_font_FastOne.bin",
+  "c_path": "\\assets\\ui_font_FastOne.c",
+  "cfg_path": "\\assets\\ui_font_FastOne.fcfg",
+  "size": 16,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

@@ -1,0 +1,16 @@
+{
+  "codename": "icon_bettery",
+  "ttf_path": "\\assets\\iconfont.ttf",
+  "bin_path": "\\assets\\ui_font_icon_bettery.bin",
+  "c_path": "\\assets\\ui_font_icon_bettery.c",
+  "cfg_path": "\\assets\\ui_font_icon_bettery.fcfg",
+  "size": 30,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0xe60c-0xe7fa"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

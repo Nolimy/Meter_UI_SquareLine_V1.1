@@ -1,0 +1,16 @@
+{
+  "codename": "PlayFairSmall",
+  "ttf_path": "\\assets\\PlayfairDisplaySC-Black.ttf",
+  "bin_path": "\\assets\\ui_font_PlayFairSmall.bin",
+  "c_path": "\\assets\\ui_font_PlayFairSmall.c",
+  "cfg_path": "\\assets\\ui_font_PlayFairSmall.fcfg",
+  "size": 30,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x43-0x55"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

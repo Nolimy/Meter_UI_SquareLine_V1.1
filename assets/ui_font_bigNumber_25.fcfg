@@ -1,0 +1,16 @@
+{
+  "codename": "bigNumber_25",
+  "ttf_path": "\\assets\\big-numbers.ttf",
+  "bin_path": "\\assets\\ui_font_bigNumber_25.bin",
+  "c_path": "\\assets\\ui_font_bigNumber_25.c",
+  "cfg_path": "\\assets\\ui_font_bigNumber_25.fcfg",
+  "size": 25,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
